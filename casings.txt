@@ -1,0 +1,21 @@
+camelCase
+twoHumpCamel
+-JS mostly uses camelCase
+
+TitleCase / PascalCase
+-for JS classes
+
+kebob-case
+fruit-meat-veggie
+-for folder names
+
+snake_case
+slither_slither
+-for Python, SQL
+
+README
+
+ESSENTIALLY:
+-follow along what other people do (based on context)
+-CONSISTENCY
+-exceptions draw attention
