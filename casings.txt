@@ -8,6 +8,7 @@ TitleCase / PascalCase
 kebob-case
 fruit-meat-veggie
 -for folder names
+-html
 
 snake_case
 slither_slither
